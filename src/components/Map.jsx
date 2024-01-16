@@ -12,10 +12,9 @@ import { useEffect, useState } from 'react';
 import { useCities } from '../contexts/CitiesContext';
 import { useGeolocation } from '../hooks/useGeolocation';
 import Button from './Button';
+import { useUrlPosition } from '../hooks/useUrlPosition';
 function Map() {
-  const [searchParams, setSearchParams] = useSearchParams();
-  const mapLat = searchParams.get('lat') || 40;
-  const mapLng = searchParams.get('lng') || 0;
+  const [mapLat, mapLng] = useUrlPosition();
   const { cities } = useCities();
   const [mapPosition, setMapPosition] = useState([mapLat, mapLng]);
   useEffect(() => {
