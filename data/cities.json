@@ -1,40 +1,64 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Chinchilla de Monte Aragon",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2024-01-17T11:41:49.404Z",
+      "notes": "wonderful place",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "38.96858099800005",
+        "lng": "-1.6723633557558062"
       },
-      "id": 17806751
+      "id": 1
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Souzel",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-01-17T12:46:29.419Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "38.99546216681013",
+        "lng": "-7.832031548023225"
       },
-      "id": 98443197
+      "id": 2
+    },
+    {
+      "cityName": "Ontinena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-17T12:49:22.152Z",
+      "notes": "",
+      "position": {
+        "lat": "41.582802069750066",
+        "lng": "0.009760635472426673"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Touama",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-01-17T12:50:59.050Z",
+      "notes": "",
+      "position": {
+        "lat": "31.506341599862544",
+        "lng": "-7.219466459093224"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Reigny",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-17T12:51:21.301Z",
+      "notes": "",
+      "position": {
+        "lat": "46.62167170744983",
+        "lng": "2.3620824970898457"
+      },
+      "id": 5
     }
   ]
 }
